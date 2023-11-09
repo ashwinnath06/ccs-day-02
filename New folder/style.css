@@ -1,0 +1,25 @@
+body{
+    background-image: url(images/logo-design.webp);
+    background-size: cover;
+}
+header{
+    background-color: rgb(0, 0, 0);
+}
+#logo{
+    margin-left: 9%;
+}
+.navigation{
+float:right ;
+       margin-right:50px;
+    margin-top:20px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    text-decoration: none;
+    border: 2px solid white;
+}
+.navigation a{
+    background-color: cornflowerblue;
+    color:yellow
+}
